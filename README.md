@@ -21,4 +21,4 @@ Application is available at [https://dvrpc.github.io/retail/index.htm](https://d
 
 Datasets are utilizing static Geosjon files.
 
-[![alt text](https://raw.githubusercontent.com/crvanpollard/retail/master/img/retail_map.png)]
+[![alt text](https://raw.githubusercontent.com/crvanpollard/retail/master/img/retail_map.PNG)]
